@@ -33,7 +33,7 @@
     "echarts": "^4.2.1",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
-    "highcharts": "^7.1.2",
+    "highcharts": "^9.0.0",
     "sass": "^1.22.4",
     "sass-loader": "^7.1.0",
     "vue-aliplayer": "0.0.8",
